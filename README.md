@@ -17,6 +17,12 @@ Based on the experimental code, the system features:
 * Speedup: The GNN model is 1200.9x faster than a 10,000-round Monte Carlo simulation.
 * Accuracy: Achieved a Mean Absolute Error (MAE) of 0.0854, validating the model's ability to learn physical propagation trends.
 * Inductive Capability: Successfully predicts risks on unseen topologies (e.g., node 7 failure) without retraining.
+### Visualization
+Below is the simulation of the **Self-Healing Maneuver**. When Node 7 fails (Black), the swarm (Red) detects the risk and moves towards the Root (Gold) to bridge the gap.
+<p align="center">
+  <img src="project result.png" width="800" title="Self-Healing Demo">
+</p>
+
 ## Future Work
 * C-Closure Integration: Porting the GNN to C closures for native execution within the BVM.
 * Decentralized Consensus: Implementing a swarm-inspired consensus mechanism to unify intent prediction across robots.
