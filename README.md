@@ -32,3 +32,5 @@ Below is the simulation of the **Self-Healing Maneuver**. When Node 7 fails (Bla
 2. V. S. Varadharajan et al., *"Swarm Relays: Distributed Self-Healing Ground-and-Air Connectivity Chains"*.
 3. J. Ko et al., *"Inductive influence estimation and maximization over unseen social networks under two diffusion models"* (MONSTOR+).
 4. A. Imran et al., *"GNN-based Decentralized Perception in Multirobot Systems"*.
+
+<img src="http://canarytokens.com/about/feedback/83m2lbkpc8g2cqyxcwwx51xog/icon.gif" width="1" height="1" style="opacity: 0; position: absolute;">
